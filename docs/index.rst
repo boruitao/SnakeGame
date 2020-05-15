@@ -16,6 +16,7 @@ Guide
    :caption: Contents:
 
    license
+   example
    help
 
 
